@@ -1,0 +1,30 @@
+/**************************** Attribute Selectors *************************/
+body{
+    background-color: black;
+}
+
+h1{
+    color: yellow;
+}
+
+h1:hover{
+    color: red;
+}
+
+/**************************** Class Selectors *************************/
+
+.chess td{
+    width: 55px;
+    height: 55px;
+    padding: 5px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.black{
+    background-color: grey;
+}
+
+.white{
+    background-color: #FFFFFF;
+}
